@@ -1,1 +1,7 @@
+title: Softozor
 theme: jekyll-theme-hacker
+logo: /assets/img/softozor.png
+languages: ["en"]
+defaultLang: en
+plugins:
+  - jekyll-octicons
