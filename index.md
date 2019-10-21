@@ -6,3 +6,4 @@
 ## Organizational
 
 * [Product development initialization checklist](prodDevInitChecklist.html)
+* [Workflow with pull requests on Github](github_workflow.html)
